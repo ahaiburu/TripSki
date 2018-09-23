@@ -11,7 +11,7 @@ import { BookingComponent } from './components/booking/booking.component';
 @NgModule({
   declarations: [
     AppComponent,
-    MapScreenComponent,
+    MapScreenCompone,
     FiltersComponent,
     BookingComponent
   ],
