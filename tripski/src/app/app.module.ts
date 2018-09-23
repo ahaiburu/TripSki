@@ -12,6 +12,7 @@ import { BookingComponent } from './components/booking/booking.component';
   declarations: [
     AppComponent,
     MapScreenCompone,
+    MapScreenCom,
     FiltersComponent,
     BookingComponent
   ],
